@@ -770,6 +770,14 @@ section{
     0 0 25px cyan, 0 0 50px cyan,
     0 0 100px cyan, 0 0 200px cyan;
 }
+
+#msg{
+    color: deeppink;
+    margin-bottom: 10px;
+    display: block;
+    font-size: 18px;
+}
+
 .last-text p{
     width: 100%;
     text-align: center;
